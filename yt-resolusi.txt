@@ -10,3 +10,5 @@ Flow Pembelajaran yang akan di ikuti kedepan nya
 -HTTP/HTTPS and API's
 -Design Pattern
 -Character Encoding
+
+-memilih front end atau backend
