@@ -1,0 +1,12 @@
+Flow Pembelajaran yang akan di ikuti kedepan nya
+-git version control
+-basic terminal usage
+-Data structures & alogarithm
+-SOLID, KISS, YAGNI
+-Github
+-Licenses
+-Semantic Versioning 
+- SSH
+-HTTP/HTTPS and API's
+-Design Pattern
+-Character Encoding
